@@ -4,7 +4,9 @@ import './MainContent.sass'
 class MainContent extends React.Component{
     render(){
         return (
-            <section></section>
+            <main className={'main-content'}>
+                
+            </main>
         )
     }
 }
